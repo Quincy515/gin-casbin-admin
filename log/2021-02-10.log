@@ -1,0 +1,1 @@
+[GIN-CASBIN-ADMIN]2021/02/10 - 00:25:56.782	[31merror[0m	/Users/tianxiaoqiang/Work/2021/admin/gin-casbin-admin/global/gorm/gorm.go:38	MySQL启动失败	{"err": "Error 1049: Unknown database 'sysadmin'"}
